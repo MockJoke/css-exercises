@@ -1,0 +1,15 @@
+.plain-button,
+.fancy-button {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.plain-button {
+    background-color: black;
+    color: white;
+}
+
+.fancy-button {
+    background-color: yellow;
+    color: black;
+}
